@@ -42,6 +42,7 @@ Key Features
 How to Use
 
 Choose to explore the App or Website folders based on your interest. The App folder contains the core mobile application code, while the Website folder houses the web application code. Detailed instructions and code explanations are provided within each directory.
+
 Goals and Impact
 
 MentPhysique aims to bridge the gap between health tracking and mental wellbeing, providing a seamless, integrated platform to help users achieve a balanced and healthy lifestyle. By combining physical and mental health functionalities, this project sets a new standard for tech-driven holistic health management.
